@@ -1,2 +1,4 @@
 сборка: `go build .\cmd\test_solver\main.go`  
-запуск: `.\main.exe <количество горутин>`  
+запуск: 
+- windows: `.\main.exe <количество горутин>`
+- linux: `.\main <количество горутин>`
